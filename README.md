@@ -3,4 +3,4 @@
 
 Repositório de desevolvimento de aplicaçãoes em Python.
 
-Ésta linha é  um teste de alteração direta através do site.
+Essa linha é um teste de alteração direta através do site.
